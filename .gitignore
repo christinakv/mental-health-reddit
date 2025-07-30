@@ -1,0 +1,17 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment config
+.env
+
+# Ignore data folders and CSVs (optional — if too large)
+data_by_year/
+data_new/
+*.csv
+
+# Ignore virtual environment (if inside project dir)
+venv/
