@@ -11,8 +11,7 @@ This project explores the presence and growth of social media discussions in men
 ├── data/                # 
 ├── data_new/            # Recent Reddit posts from the last 7 days (CSV)
 ├── plots/               # Saved charts/visualizations (PNG)
-├── Reddit_MentalHealth_Analysis_Part1.ipynb
-├── Reddit_MentalHealth_Analysis_Part2.ipynb
+├── sample.ipynb
 ├── requirements.txt
 ├── .gitignore
 └── README.md            # You're here!
