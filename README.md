@@ -83,13 +83,13 @@ These will:
 Here are example charts saved from the analysis:
 
 ### 📈 Average Mentions per Post
-![avg_mentions](plots/Average Social Media Mentions per Post by Year.png)
+![avg_mentions](plots/avg_mentions.png)
 
 ### 📉 Percentage of Posts Mentioning Social Media
-![percent_mentions](plots/Percentage of Posts Mentioning Social Media by Year.png)
+![percent_mentions](plots/percent_mentions.png)
 
 ### 📊 Forecast for 2026
-![forecast_mentions](plots/Forecast: Social Mentions in Mental Health Subreddits.png)
+![forecast_mentions](plots/forecast_mentions.png)
 
 ---
 
